@@ -17,9 +17,9 @@ let myLibraryFunction;
 
 // 2 
 
-let num=100;  //Numeric literal
-let message="Hello, World!";   //String literal
-let answer= ture; //Boolean literal
+let firstNum=100;  //Numeric literal
+let firstMessage="Hello, World!";   //String literal
+let answerBoolean= ture; //Boolean literal
 let emptyValue=null    //Null literal expression
 
 // 3
@@ -29,7 +29,7 @@ let b=5;
 let distance=a/b+5*(a-b);
 console.log(distance);
 
-let name = "Mike";
-let age = 37;
-let message = name + " is " + (age >= 18 ? "an adult" : "a minor") + ".";
-console.log(message);
+let nameUser = "Mike";
+let userAge = 37;
+let answerMessage = nameUser + " is " + (userAge >= 18 ? "an adult" : "a minor") + ".";
+console.log(answerMessage);
