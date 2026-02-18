@@ -89,23 +89,23 @@ let undefinedLiteral;
 console.log(typeof undefinedLiteral);  
 
 //11
-let firstName = "Bert";  
-let lastName = "Liu";  
+let firstName = "Mike";  
+let lastName = "Jhon";  
 
 alert("Hello " + firstName + " " + lastName + ", welcome to the JavaScript class!");
 
 //12
-let name="Bert Liu";
+let name="Mike Jhon";
 alert("Hello"+name+"welcome to the JavaScript class!");
 
 //13
 
 let Course = "JavaScript";
-let name="Bert Liu"
+let name="Mike John"
 alert("Hello"+name+"welcome to the "+ course +"class!");
 
 //14
-let name = "Bert Liu";  
+let name = "Mike John";  
 let course = "JavaScript";   
 
 alert("Hello " + name + ".\nWelcome to the " + course + " class!");
